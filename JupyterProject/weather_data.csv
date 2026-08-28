@@ -1,0 +1,5 @@
+city,temperature,humidity,wind_speed,pm25
+"Greater London, England, United Kingdom",19.4,78,16.9,N/A
+"東京都, 日本",24.6,81,2.6,N/A
+"لاہور, تحصیل لاہور شہر, ضلع لاہور, لاہور ڈویژن, پنجاب, 54100, پاکستان",32.4,63,4.1,N/A
+"Paris, Île-de-France, France métropolitaine, France",21.7,56,7.5,N/A
